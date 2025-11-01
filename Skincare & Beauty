@@ -1,0 +1,29 @@
+Simple Online Store
+
+This is a simple responsive online store built using *HTML*, *CSS (Bootstrap)*, and *JavaScript*.  
+The project includes product cards, an "Add to Cart" system, login form, form validation, and product data fetched from an API.
+
+---
+
+📦 Features
+- 🛒 Add to Cart functionality
+- 👤 Login form with validation
+- ✅ Bootstrap form validation
+- 🔄 Fetching product data using Fetch API
+- 💡 Dynamic DOM manipulation
+- 📱 Responsive design with Bootstrap
+
+---
+
+🚀 How to Run the Project
+
+1. Clone or download the repository.
+2. Open the `index.html` file in your browser.
+3. Interact with login, cart, and view products.
+
+🛠 Technologies Used
+
+- HTML5
+- CSS3 / Bootstrap 5
+- JavaScript (ES6)
+- Dummy Product API (FakeStoreAPI)
